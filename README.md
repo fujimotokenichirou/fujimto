@@ -1,2 +1,2 @@
-# fujimto
+# fujimoto
 自分の氏
